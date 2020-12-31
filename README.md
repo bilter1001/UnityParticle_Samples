@@ -1,4 +1,4 @@
-# UnityParticle_Samples
+# UnityParticle_Samples，根据教程自己写的几个粒子特效
 
 Unity社区直播｜几种粒子效果的制作教学 Getting started with Particle Systems
 https://www.bilibili.com/video/BV1yy4y1B7ir
